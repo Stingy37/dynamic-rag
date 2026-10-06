@@ -1,0 +1,12 @@
+[submodule "DRAGIN"]
+	path = DRAGIN
+	url = https://github.com/Stingy37/DRAGIN.git
+[submodule "ircot"]
+	path = ircot
+	url = https://github.com/Stingy37/ircot.git
+[submodule "SeaKR"]
+	path = SeaKR
+	url = https://github.com/Stingy37/SeaKR.git
+[submodule "S2G-RAG"]
+	path = S2G-RAG
+	url = https://github.com/Stingy37/S2G-RAG.git
